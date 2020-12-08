@@ -6,7 +6,7 @@ I have created an android application, which uses AutoML deep learning for detec
 2.) AutoML <br>
 3.) Android Studio <br>
 
-### Procedure
+### Working
 
 1.) This app is supposed to act as a surveillance device. Here, user clicks an image. <br>
 2.) Firebase Cloud Vision processes the input image. It classifies it into 3 categories : Wild, Domestic and Human. <br>
