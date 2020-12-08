@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811156396153",
+    "firebase_url": "https://wmc-project-b7f10.firebaseio.com",
+    "project_id": "wmc-project-b7f10",
+    "storage_bucket": "wmc-project-b7f10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811156396153:android:9a87bc8ed4a23a96ef9ca8",
+        "android_client_info": {
+          "package_name": "com.example.disproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811156396153-27b81qj6t9vhn4v4ho6ahkarueg3iduk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.disproject",
+            "certificate_hash": "a442ac96a8eec9b143dcaf01e39d0540962c7ad8"
+          }
+        },
+        {
+          "client_id": "811156396153-0qqk38pjb7hbqq1m1ob7lohm88uf43bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbiWrBuZA9lAD4-5886NjlSDaTORHbQxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811156396153-0qqk38pjb7hbqq1m1ob7lohm88uf43bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
